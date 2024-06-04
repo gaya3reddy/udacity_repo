@@ -30,5 +30,5 @@ $ git checkout branch_to_change_to
 $  git branch -d branch_name_to_delete
 
 
-
-
+# Pull the latest changes on the develop branch down
+$ git pull
